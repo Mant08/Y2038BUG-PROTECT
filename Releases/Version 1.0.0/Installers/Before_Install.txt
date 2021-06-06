@@ -1,0 +1,8 @@
+Welcome to the  Year 2038 Bug Protection for Windows 32-bit Systems, Setup.
+
+
+To start installing, click Next.
+
+Author: Mant08 (Github): https://github.com/Mant08
+Source Code and Extra Info: https://github.com/Mant08/Y2038BUG-PROTECT
+The program's icon was made by Freepik (httpswww.freepik.com) from www.flaticon.com

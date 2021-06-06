@@ -1,0 +1,11 @@
+You had installed successfully the Year 2038 Bug Protection, for Windows 32-bit Systems
+
+IMPORTANT
+
+Select launch the app, or click the shortcut on the desktop, or navigate to the installation directory ( C:\Program Files\Mant08\Y2038BUG ), and select the appropriate starter.
+ (Example: Win10_Install_Y38BUG.bat), for Windows 10, Windows Server 2016,
+Windows Server 2019, and later
+
+Author: Mant08 (Github): https://github.com/Mant08
+Source Code and Extra Info: https://github.com/Mant08/Y2038BUG-PROTECT
+The program's icon was made by Freepik (httpswww.freepik.com) from www.flaticon.com
