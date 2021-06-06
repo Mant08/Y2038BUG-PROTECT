@@ -21,4 +21,4 @@ By clicking the releases tab, and clickng the latest one, you are gpoing to be p
 In 19th January of 2038, 03:14:07, an integer overflow will happen, on 32-bit systems, causing them to reset the date to 13th of December of 1901. As a result, millions of 32-bit architecture devices and Operating Systems, they would be not be able to maintain the time. In this list, includes , ARM proccesors, x86 proccesors, Android on ARM, Windows 32-bit, Mac Os 32-bit, Linux 32-bit and etc. 
 
 ## Icon
-The program icon, is from flaticons.com. Icons made by Freepik (https://www.freepik.com/) from www.flaticon.com 
+The program icon, is from flaticons.com. Icon made by Freepik (https://www.freepik.com/) from www.flaticon.com 
